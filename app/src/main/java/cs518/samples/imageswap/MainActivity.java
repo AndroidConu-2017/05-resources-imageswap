@@ -80,9 +80,11 @@ public class MainActivity extends Activity {
 			Log.d(TAG, "Mediaplayer start failed ");
 			try {
 				mp.reset();
+				e1.printStackTrace();
 			} catch (Exception e2) {
 				Log.d(TAG, "Mediaplayer reset  failed ");
 				e2.printStackTrace();
+				Toast.makeText(this, "Meow failed, rotate then try again", Toast.LENGTH_SHORT).show();
 			}
 		}
 
