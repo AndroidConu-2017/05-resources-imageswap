@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ImageSwap</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Drawable Image Swapper</string>
+    <string name="message">Click Images to swap</string>
+    <string name="imageCredit">Non tard image courtesy of http://hyperboleandahalf.blogspot.ca/ [CC-BY-NC-ND]</string>
+    <string name="soundCredit">
+        meow.ogg by Dcrosby at en.wikipedia [CC-BY-SA-3.0], from Wikimedia Commons
+    </string>
+    <string name="contentDesc">Image Button</string>
+    <string name="rotatescreen">Rotate</string>
+</resources>
