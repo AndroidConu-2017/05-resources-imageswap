@@ -1,4 +1,4 @@
-# week04-resources-imageswap
+# resources-imageswap
 # ImageSwap
 Sample code using resources  with various atributes
 drawables
